@@ -7,7 +7,7 @@
 
 <h5>专为 Unity 项目优化的 Git 配置文件模板</h5>
 
-![示例](https://count.getloli.com/get/@moe-wakatimer?theme=rule34)
+![访问次数](https://count.getloli.com/get/@fishcat233-unity-git-template?theme=rule34)
 
 </div>
 
